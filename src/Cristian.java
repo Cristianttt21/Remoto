@@ -8,6 +8,8 @@ public class Cristian {
 		System.out.println("prueba de subida3");
 		System.out.println("prueba de subida7");
 		int x, j;
+		
+		System.out.println("subida odncqipcnqpc");
 	}
 
 }
