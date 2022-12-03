@@ -7,7 +7,7 @@ public class Cristian {
 		System.out.println("prueba de subida1");
 		System.out.println("prueba de subida3");
 		System.out.println("prueba de subida7");
-		
+		int x, j;
 	}
 
 }
