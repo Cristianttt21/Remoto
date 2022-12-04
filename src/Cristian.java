@@ -7,7 +7,9 @@ public class Cristian {
 		System.out.println("Holaaa putooo"); 
 		System.out.println("hola mmmmmmz");
 		
-		int j, k;
-		String y, o;
+		for (int i=0;i<1000;i++) {
+		System.out.println("Severas locas");
+		i++;
+		}
 	}
 }
