@@ -6,5 +6,8 @@ public class Cristian {
 		System.out.println("prrrrrrrrrrrrrrrrrrraivnqpvnqepvnq");
 		System.out.println("Holaaa putooo"); 
 		System.out.println("hola mmmmmmz");
+		
+		int j, k;
+		String y, o;
 	}
 }
