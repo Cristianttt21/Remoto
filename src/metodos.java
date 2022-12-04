@@ -35,6 +35,7 @@ public class metodos {
 	}
 	
 	public void impreso() {
+		System.out.println("Llega a funcion");
 		for (personas perso: lista) {
 			System.out.println("Nombre: " + " " +  perso.getNombre() + " " + perso.getSueldo() + " " + perso.getEdad());
 		}
