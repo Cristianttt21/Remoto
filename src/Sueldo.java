@@ -10,12 +10,12 @@ public class Sueldo {
 		int x, k = 0;
 		boolean cerrar = false;
 
-		// Motor del programa
+		// Motor del programa 
 	
 			m.entrada();
 
 			x = m.x;
-			while (!cerrar) {
+			while (!cerrar) {  						//ciclo que permite controlar un menu repetitivo
 			System.out.println("Para ingresar datos digite 1");
 			System.out.println("Para visuzaliar datos digitre el 2");
 
